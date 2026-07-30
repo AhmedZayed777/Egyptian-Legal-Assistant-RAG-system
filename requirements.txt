@@ -1,0 +1,12 @@
+faiss-cpu
+langchain-community
+langchain-huggingface
+langchain-classic
+sentence-transformers
+transformers
+torch
+accelerate
+streamlit
+pyngrok
+pandas
+numpy
